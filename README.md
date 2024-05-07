@@ -3,8 +3,8 @@
 ### Hi there 👋
 
 Hello World!
-- 📗 1`
-- 😄 2`
+- 📗 I am a student from Northeast Normal University, and I came here to study.
+- 😄 We're making the world a better place.
 <!--
 **YinXin-Original-Wish/YinXin-Original-Wish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
